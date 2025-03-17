@@ -31,3 +31,7 @@ The dataset consists of medalists from the 2008 Olympics, including information 
 * Split composite column names into separate categorical variables.
 * Generated summary statistics and visualizations for exploratory data analysis.
 
+
+## Link for Further Reading
+Tidy Data Paper: https://vita.had.co.nz/papers/tidy-data.pdf 
+Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf 

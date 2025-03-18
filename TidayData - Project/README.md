@@ -32,6 +32,8 @@ The dataset consists of medalists from the 2008 Olympics, including information 
 * Generated summary statistics and visualizations for exploratory data analysis.
 
 
+![Tidy Data Visualization](<img width="864" alt="Tidydata Visualization" src="https://github.com/user-attachments/assets/986a4ff2-4168-416f-b750-c33b19443e68" />)
+
 ## Link for Further Reading
 Tidy Data Paper: https://vita.had.co.nz/papers/tidy-data.pdf 
 

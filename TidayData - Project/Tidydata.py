@@ -1,13 +1,14 @@
-### Import necessary libraries and loading the dataset using relative path
+###Import necessary libraries and loading the dataset using relative path
 import pandas as pd
 import matplotlib.pyplot as plt
 relative_path = "Data/olympics_08_medalists.csv"  
 df = pd.read_csv(relative_path)
-### Identifying missing value and drop rows where all values are missing
+
+###Identifying missing value and drop rows where all values are missing
 df.dropna(how='all', inplace=True)
 print(df.isnull().sum())
 
-### Melting data to transform it into a tidy format. Splitting Cateogry column to extract Gender and Sport. Then drop rows where Gender or Sport is NA. Drop the original cateogry column for the newest cleaned dataset.
+###Melting data to transform it into a tidy format. Splitting Cateogry column to extract Gender and Sport. Then drop rows where Gender or Sport is NA. Drop the original cateogry column for the newest cleaned dataset.
 
 
 df_melted = df.melt(id_vars=['medalist_name'], var_name='Category', value_name='Medal')

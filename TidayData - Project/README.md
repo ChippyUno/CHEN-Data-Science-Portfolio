@@ -32,7 +32,7 @@ The dataset consists of medalists from the 2008 Olympics, including information 
 * Generated summary statistics and visualizations for exploratory data analysis.
 
 
-![alt text](<img width="864" alt="Screenshot 2025-03-17 at 21 01 22" src="https://github.com/user-attachments/assets/32c7dc31-7aa5-426c-8c47-969f58dfd0d5" />)
+(<img width="864" alt="Screenshot 2025-03-17 at 21 01 22" src="https://github.com/user-attachments/assets/32c7dc31-7aa5-426c-8c47-969f58dfd0d5" />)
 
 
 ## Link for Further Reading

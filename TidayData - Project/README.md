@@ -32,9 +32,11 @@ The dataset consists of medalists from the 2008 Olympics, including information 
 * Generated summary statistics and visualizations for exploratory data analysis.
 
 
-
+### Image for Reference
 <img width="864" alt="Tidydata Visualization" src="https://github.com/user-attachments/assets/57508dc2-427a-41bf-b7e5-bc48cfdf179d" />
 
+
+<img width="855" alt="Screenshot 2025-03-17 at 21 01 36" src="https://github.com/user-attachments/assets/56c0e80f-1a35-4578-8ce1-e19c8a314a6d" />
 
 
 ## Link for Further Reading

@@ -26,3 +26,6 @@ Adding the Tidy Data project alongside the Streamlit App enhances this portfolio
 
 ## Project 3: Streamlit App
 This streamlit app serves as an interactive machine learning envrionment that allows users to upload their own datasets or explore built-in ones, select a model, tune hyperparameters, adn visualize performance metrics like ROC curves adn confusion matrices. It deepened my understanding of model evaluation, preprocessing, and the practical impact of hyperparameter tuning. 
+
+## Portfolio Growth
+By deploying this app on Streamlit Community Cloud and connecting it to a GitHub repository, I demonstrate a clear understnading of how to take a machine learning project form local development to a fully shreable product. This project shows that I can operationalize models and build accessible applications around them - an increasingly important skill in modern machine learning roles. Then paired with my other projects, like a Jupyter data cleaning and EDA workflow, and a streamlit app focused ond ata visualization. This machine learning completes a well rounded portfolio. It really represents the intersection of machin learning and real world usability, a core focus of data science in practice. 

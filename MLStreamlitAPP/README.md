@@ -32,6 +32,9 @@ Tuning Hyperparameters
 
 ## Resources
 Matplotlib: https://matplotlib.org/stable/users/explain/quick_start.html 
+
 Streamlit: https://docs.streamlit.io/develop/tutorials
+
 Seaborn: https://seaborn.pydata.org/tutorial.html
+
 Scikit-learn: https://scikit-learn.org/stable/user_guide.html

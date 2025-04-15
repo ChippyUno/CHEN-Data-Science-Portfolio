@@ -38,3 +38,8 @@ Streamlit: https://docs.streamlit.io/develop/tutorials
 Seaborn: https://seaborn.pydata.org/tutorial.html
 
 Scikit-learn: https://scikit-learn.org/stable/user_guide.html
+
+
+## Image for representation 
+<img width="1147" alt="Screenshot 2025-04-14 at 21 41 55" src="https://github.com/user-attachments/assets/70277ae7-fb51-4130-8def-21b7fa8f3a6e" />
+

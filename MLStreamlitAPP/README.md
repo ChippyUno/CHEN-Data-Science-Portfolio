@@ -13,6 +13,7 @@ The goal of this project is to provide an interactive, educational envrionment w
 ## Instructions
 First, clone the repository
 git clone https://github.com/ChippyUno/CHEN-Data-Science-Portfolio.git
+
 cd chen-data-science-portfolio/MLStreamlitAPP
 
 Then install the required libraries

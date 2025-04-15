@@ -29,3 +29,5 @@ This streamlit app serves as an interactive machine learning envrionment that al
 
 ## Portfolio Growth
 By deploying this app on Streamlit Community Cloud and connecting it to a GitHub repository, I demonstrate a clear understnading of how to take a machine learning project form local development to a fully shreable product. This project shows that I can operationalize models and build accessible applications around them - an increasingly important skill in modern machine learning roles. Then paired with my other projects, like a Jupyter data cleaning and EDA workflow, and a streamlit app focused ond ata visualization. This machine learning completes a well rounded portfolio. It really represents the intersection of machin learning and real world usability, a core focus of data science in practice. 
+
+**Link**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/tree/main/MLStreamlitAPP

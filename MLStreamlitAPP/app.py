@@ -53,14 +53,6 @@ def load_sample_data():
     y = pd.Series(data.target, name="target")
     return X, y, data.feature_names, data.target_names
 
-# Initialize session state
-if 'df' not in st.session_state:
-    st.session_state.df = None
-if 'X' not in st.session_state:
-    st.session_state.X = None
-if 'y' not in st.session_state:
-    st.session_state.y = None
-
 # uploaded files
 if data_source == "Upload Your Own" and uploaded_file is not None:
     st.session_state.df = pd.read_csv(uploaded_file)

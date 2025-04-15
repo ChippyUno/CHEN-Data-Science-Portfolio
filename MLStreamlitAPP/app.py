@@ -6,8 +6,7 @@ import seaborn as sns
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import (accuracy_score, precision_score, recall_score, 
-                             f1_score, confusion_matrix, roc_curve, auc)
+from sklearn.metrics import (accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, roc_curve, auc)
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
 
@@ -62,7 +61,7 @@ if 'X' not in st.session_state:
 if 'y' not in st.session_state:
     st.session_state.y = None
 
-# Handle uploaded files
+# uploaded files
 if data_source == "Upload Your Own" and uploaded_file is not None:
     st.session_state.df = pd.read_csv(uploaded_file)
     st.header("🔍 Data Overview")
@@ -90,7 +89,7 @@ if data_source == "Upload Your Own" and uploaded_file is not None:
             st.write("**Class Distribution**")
             st.bar_chart(pd.Series(st.session_state.y).value_counts())
 
-# Handle sample dataset
+# sample dataset
 if data_source == "Sample Dataset":
     X_sample, y_sample, feature_names, class_names = load_sample_data()
     st.header("🔍 Data Overview")
@@ -133,7 +132,7 @@ if st.sidebar.button("🚀 Train Model"):
         y_pred = model.predict(X_test)
         y_proba = model.predict_proba(X_test) if hasattr(model, "predict_proba") else None
         
-        # Calculate metrics
+        # Metrics
         accuracy = accuracy_score(y_test, y_pred)
         precision = precision_score(y_test, y_pred, average='weighted')
         recall = recall_score(y_test, y_pred, average='weighted')
@@ -158,7 +157,7 @@ if st.sidebar.button("🚀 Train Model"):
         ax.set_ylabel("Actual")
         st.pyplot(fig)
         
-        # ROC Curve (for binary classification)
+        # ROC Curve 
         if y_proba is not None and len(np.unique(y)) == 2:
             st.subheader("ROC Curve")
             fpr, tpr, _ = roc_curve(y_test, y_proba[:, 1])
@@ -175,7 +174,7 @@ if st.sidebar.button("🚀 Train Model"):
             ax.legend(loc="lower right")
             st.pyplot(fig)
         
-        # Feature Importance (for tree-based models)
+        # Feature Importance 
         if model_type == "Decision Tree":
             st.subheader("Feature Importance")
             importances = model.feature_importances_

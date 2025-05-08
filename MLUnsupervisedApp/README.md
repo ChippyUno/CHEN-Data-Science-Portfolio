@@ -40,4 +40,4 @@ The goal of the Unsupervised Learning Explorer is to provide users with an inter
 Alerts users if data input in incomplete or analysis settings are invalid 
 
    
-    - 
+  

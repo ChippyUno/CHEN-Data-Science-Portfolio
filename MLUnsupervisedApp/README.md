@@ -9,12 +9,12 @@ The goal of the Unsupervised Learning Explorer is to provide users with an inter
 
 
 ## Features
-# Data Input
+### Data Input
 - Choose from built-in datasets: Iris, Wine, or Breast Cancer
 - Upload your own CSV file for custom exploration
 - Select specifc numeric features from uploaded data for anlaysis
 
-# Configuration Controls
+### Configuration Controls
 - Model selection: Choose between K-Means Clustering and PCA
 - Hyperparameter Tuning:
   - For K-Means:
@@ -24,7 +24,7 @@ The goal of the Unsupervised Learning Explorer is to provide users with an inter
 - Data Preprocessing: Option to standardize data
 - Reproducinility: Set a random seed
 
-# Visual Outputs & Metrics
+### Visual Outputs & Metrics
 - Data Overview: Summary stats and sample line chart
 - Elbow Plot: Helps determine optimal k for K-Means via WCSS curve
 - Silhouette Score: Measures clsutering quality
@@ -36,7 +36,7 @@ The goal of the Unsupervised Learning Explorer is to provide users with an inter
   - Line plot for cumulative variance
 - Component Loadings Table: Shows how each original feature contributes to the components
 
-# Error Handling
+### Error Handling
 Alerts users if data input in incomplete or analysis settings are invalid 
 
    

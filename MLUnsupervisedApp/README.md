@@ -39,5 +39,13 @@ The goal of the Unsupervised Learning Explorer is to provide users with an inter
 ### Error Handling
 Alerts users if data input in incomplete or analysis settings are invalid 
 
+
+## Instructions
+
+cd chen-data-science-portfolio/MLStreamlitAPP
+
+Then install the required libraries pip install -r requirements.txt
+
+The libraries and versions are matplotlib 3.10.1 numpy 2.2.4 pandas 2.2.3 scikit-learn 1.6.1 seaborn 0.13.2 streamlit 1.37.1
    
   

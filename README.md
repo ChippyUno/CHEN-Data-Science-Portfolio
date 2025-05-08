@@ -9,7 +9,7 @@ Streamlit is a Python library that allows users to build interactive web applica
 * Data Visualizations: Works with many Python libraries to generate visuals
 * Simplicity: Easily writes web apps without additional scripts
 
-***Link***: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/tree/main/basic_streamlit_app
+**Link**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/tree/main/basic_streamlit_app
 
 ## Project 2: Tidy Data Cleaning and Visualization 
 This project focuses on transforming raw data into a tidy format for better analysis and visualization. Using the 2008 Olympics medalist dataset, the project applies data cleaning techniques and restructuring principles to ensure that:
@@ -22,7 +22,7 @@ The project also includes data visualizations and aggregation techniques to show
 ### Portfolio Growth
 Adding the Tidy Data project alongside the Streamlit App enhances this portfolio by demonstrating both backend data processing skills and frontend visualization capabilities. The first project showcases proficiency in data cleaning and transformation, while the second highlights the ability to build interactive applications. This combination strengthens the overall coding profile, making it more comprehensive and practical for real-world applications
 
-***Link***: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/tree/main/TidayData%20-%20Project
+**Link**: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/tree/main/TidayData%20-%20Project
 
 ## Project 3: Streamlit App
 This streamlit app serves as an interactive machine learning envrionment that allows users to upload their own datasets or explore built-in ones, select a model, tune hyperparameters, adn visualize performance metrics like ROC curves adn confusion matrices. It deepened my understanding of model evaluation, preprocessing, and the practical impact of hyperparameter tuning. 

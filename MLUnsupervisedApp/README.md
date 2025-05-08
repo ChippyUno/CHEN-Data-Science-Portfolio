@@ -47,5 +47,16 @@ cd chen-data-science-portfolio/MLStreamlitAPP
 Then install the required libraries pip install -r requirements.txt
 
 The libraries and versions are matplotlib 3.10.1 numpy 2.2.4 pandas 2.2.3 scikit-learn 1.6.1 seaborn 0.13.2 streamlit 1.37.1
+
+
+## Resources
+Matplotlib: https://matplotlib.org/stable/users/explain/quick_start.html 
+
+Streamlit: https://docs.streamlit.io/develop/tutorials
+
+Seaborn: https://seaborn.pydata.org/tutorial.html
+
+Scikit-learn: https://scikit-learn.org/stable/user_guide.html
+
    
   

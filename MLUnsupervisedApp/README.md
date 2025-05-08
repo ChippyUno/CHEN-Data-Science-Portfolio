@@ -41,6 +41,7 @@ Alerts users if data input in incomplete or analysis settings are invalid
 
 
 ## Instructions
+First, clone the repository git clone: https://github.com/ChippyUno/CHEN-Data-Science-Portfolio/blob/main/MLUnsupervisedApp/ml_explorer.py 
 
 cd chen-data-science-portfolio/MLStreamlitAPP
 

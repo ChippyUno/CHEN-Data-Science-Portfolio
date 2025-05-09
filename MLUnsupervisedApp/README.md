@@ -57,11 +57,11 @@ Streamlit: https://docs.streamlit.io/develop/tutorials
 
 Seaborn: https://seaborn.pydata.org/tutorial.html
 
+Scikit-learn: https://scikit-learn.org/stable/user_guide.html
+
 
 ## Visuals
 <img width="1440" alt="Screenshot 2025-05-08 at 17 13 05" src="https://github.com/user-attachments/assets/9c40f10e-6664-48b8-8d59-55b9af7b41d7" />
-
-Scikit-learn: https://scikit-learn.org/stable/user_guide.html
 
 
 
